@@ -1,0 +1,36 @@
+_repo: Haydn_3788
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hadden, J. Cuthbert (James Cuthbert)
+    aliases:
+    - Hadden, J. C. (James Cuthbert)
+    - Hadden, James Cuthbert
+    birthdate: 1861
+    deathdate: 1914
+    gutenberg_agent_id: '1306'
+    url: http://www.gutenberg.org/2009/agents/1306
+    wikipedia: http://en.wikipedia.org/wiki/James_Cuthbert_Hadden
+description: Franz Joseph Haydn (1732-1809) is renowned as one of the most eminent
+  and prolific composers of the classical period of western music. By the end of his
+  life he had become one of the most famous composers in Europe. He developed the
+  musical forms which became the symphony and the string quartet and was also instrumental
+  in the development of the sonata. This volume, first published in 1902 and written
+  by biographer and contributor to the Dictionary of National Biography James Cuthbert
+  Hadden (1861-1914), focuses on Haydn's career and personality...
+gutenberg_bookshelf: Music
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Haydn, Joseph, 1732-1809'
+- !lcsh 'Composers -- Austria -- Biography'
+- !lcc 'ML'
+- GITenberg
+title: Haydn
+url: http://www.gutenberg.org/ebooks/3788
