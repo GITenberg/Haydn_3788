@@ -1,5 +1,8 @@
 _repo: Haydn_3788
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hadden, J. Cuthbert (James Cuthbert)
@@ -18,6 +21,8 @@ description: Franz Joseph Haydn (1732-1809) is renowned as one of the most emine
   in the development of the sonata. This volume, first published in 1902 and written
   by biographer and contributor to the Dictionary of National Biography James Cuthbert
   Hadden (1861-1914), focuses on Haydn's career and personality...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3788#Haydn
 gutenberg_bookshelf: Music
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
